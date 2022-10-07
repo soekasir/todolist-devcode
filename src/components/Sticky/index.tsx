@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { ReactNode, useCallback, useEffect, useRef, useState } from "react";
 
 export const useStickyElement = (
