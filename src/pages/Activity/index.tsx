@@ -77,7 +77,7 @@ const ActivityDashboard = () => {
           p={1}
           style={{ backgroundColor: "#F4F4F4" }}
         >
-          <Grid item>
+          <Grid item data-cy="header-title">
             <Typography color="#111111" variant="h3">
               Activity
             </Typography>
