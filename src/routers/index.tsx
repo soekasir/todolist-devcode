@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { Suspense, useState } from "react";
 import { ThemeProvider } from "@mui/material";
 import { Route, Routes } from "react-router";
